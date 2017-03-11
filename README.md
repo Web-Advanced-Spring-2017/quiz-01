@@ -14,6 +14,7 @@ function() {
 }
 ```
 When executed, what value will be alerted to the screen? Why?
+
 1. 7
 2. 10
 3. null
@@ -33,6 +34,7 @@ function() {
 ```
 
 When executed, what value will be alerted to the screen? Explain.
+
 1. 0
 2. 5
 3. null
@@ -59,6 +61,7 @@ function second() {
 ```
 
 Assuming I call these functions in order, what value gets alerted and why?
+
 1. 0
 2. 5
 3. 6
@@ -70,6 +73,7 @@ Assuming I call these functions in order, what value gets alerted and why?
 
 **Q4:** 
 What is the correct syntax for referring to an external script called "xxx.js"? (1 point)
+
 1. <script name="xxx.js">
 2. <script src="xxx.js">
 3. <script href="xxx.js">
