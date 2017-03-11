@@ -320,7 +320,7 @@ The POST method is a little different. It's the method the browser uses to talk 
 **Q15:** 
 Console Log:
 
-```
+```bash
 module.js:442
 		throw err;
 		^
