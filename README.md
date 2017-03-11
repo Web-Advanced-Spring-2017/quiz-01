@@ -74,9 +74,9 @@ Assuming I call these functions in order, what value gets alerted and why?
 **Q4:** 
 What is the correct syntax for referring to an external script called "xxx.js"? (1 point)
 
-1. <script name="xxx.js">
-2. <script src="xxx.js">
-3. <script href="xxx.js">
+1. `<script name="xxx.js">`
+2. `<script src="xxx.js">`
+3. `<script href="xxx.js">`
 
 **Answer:**
 
