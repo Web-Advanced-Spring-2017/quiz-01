@@ -1,6 +1,7 @@
 # Quiz-01
 **03-09-17**
-*Time Limit 20min*
+
+*Time Limit: 20min*
 	
 **Q1:** 
 
@@ -110,7 +111,7 @@ function whatDoesItDo(val){
 3. It returns 1 if val is truthful, otherwise 2
 
 **Answer: 3.**
-`condition ? expr1 : expr2 ` is also known as [Conditional (ternary) Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator). It can be unpacked as following code:
+`condition ? expr1 : expr2 ` is also known as [Conditional (ternary) Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator). It can be unpacked into following code:
 
 ```js
 function whatDoesItDo(val){
@@ -121,8 +122,8 @@ function whatDoesItDo(val){
 	}
 }
 
-console.log(whatDoesItDo('test')) // It will output 1
-console.log(whatDoesItDo())				// It will output 2
+console.log(whatDoesItDo('test')) // Output: 1
+console.log(whatDoesItDo())	// Output: 2
 ```
 
 ---
@@ -149,8 +150,8 @@ function whatDoesItDo(num){
  return Math.max(0, Math.min(10, num))
 }
 
-console.log(whatDoesItDo(5))		// Output: 5
-console.log(whatDoesItDo(20))		// Output Max Range: 10
+console.log(whatDoesItDo(5))	// Output: 5
+console.log(whatDoesItDo(20))	// Output Max Range: 10
 console.log(whatDoesItDo(-20))	// Output Min Range: 0
 ```
 
@@ -234,7 +235,6 @@ function multiply(a, b){
 	return	a * b 	// Return a times b 
 }
 ```
- 
 ---
 
 **Q10:** 
